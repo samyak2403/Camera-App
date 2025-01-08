@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.samyak2403.cameraapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.samyak2403.cameraapp"
